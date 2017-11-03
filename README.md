@@ -14,7 +14,8 @@ This is a pretty good visualization where we can see colorful circles a solid bl
 # Steps taken to Redesign the Visualization
 
 The first step i followed was to have a Claim that i wanted for my visualization. 
-# Claim: Whats the best job for women in United States
+# Claim 
+Whats the best job for women in United States
 
 The best job for a women according to my analysis would be where they get equal pay or close to the men's pay. That could also be seen in the visualization above that i am redesigning but it was very unclear which occupation gets an equal pay. 
 
@@ -65,3 +66,7 @@ Above all the visualizations are the ratios of the salary and from this i can ma
 # Warrant 
 The warrant basically is the background of knowledge you have while making the analysis. As there is hardly one or two jobs that actually have the equal pay but the jobs that are close to ratio 1 are also good jobs for them. As i found a paper reading online:  " http://www.pewresearch.org/fact-tank/2017/04/03/gender-pay-gap-facts/ " 
 This reading explains the fact that why still there exists a pay gap between men and women. According to it women dont end up getting the same salary is also because they often take a career break of 12-24 months because of which they end up having litlle less salary then men. 
+
+# Future Enhancements 
+
+The analysis was made on the salary, pay gap of men and women. But the analysis for a good job for women can not only depend on this but a lot other factors like travel time, duration of work and many more. I would like to analyze it more on the basis of other factors as well.  
