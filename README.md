@@ -28,34 +28,34 @@ So after this i calculated the ratio(women salary/men salary) and made a visuali
 
 Visualization of Ratios for each category:
 
-Admin & Organization:
+# Admin & Organization:
 
 <img width="818" alt="ratio admin" src="https://user-images.githubusercontent.com/32226800/32392291-40845392-c092-11e7-954f-68eb7bc55e51.png">
 
-Care & Education: 
+# Care & Education: 
 
 <img width="522" alt="screen shot 2017-11-03 at 12 32 21 pm" src="https://user-images.githubusercontent.com/32226800/32392478-269225a8-c093-11e7-87da-5a97280b25a1.png">
 
-Creative & Media:
+# Creative & Media:
 
 <img width="505" alt="ratio creative" src="https://user-images.githubusercontent.com/32226800/32393295-2ac08e1e-c096-11e7-86cd-dd43f9b47dc5.png">
 
-Law & Justice:
+# Law & Justice:
 
 <img width="530" alt="ratio law" src="https://user-images.githubusercontent.com/32226800/32392964-f0de2bda-c094-11e7-9b0b-fd215ac75ca6.png">
 
-Manual Work:
+# Manual Work:
 
 <img width="519" alt="ratio manual work" src="https://user-images.githubusercontent.com/32226800/32392979-fae20750-c094-11e7-99bc-186fdbf5603f.png">
 
-Sales & Serving Others:
+# Sales & Serving Others:
 
 <img width="516" alt="ratio sales" src="https://user-images.githubusercontent.com/32226800/32392987-070c6200-c095-11e7-9b36-8a455a9814a7.png">
 
-Science, Tech & Engineering:
+# Science, Tech & Engineering:
 
 <img width="510" alt="ratio science" src="https://user-images.githubusercontent.com/32226800/32392994-10da0a3a-c095-11e7-888e-7c3dad27e512.png">
 
-Senior Mangers & Executives:
+# Senior Mangers & Executives:
 
 <img width="511" alt="ratio senior manager" src="https://user-images.githubusercontent.com/32226800/32392999-1cb73ada-c095-11e7-9a96-9a734574521c.png">
