@@ -83,7 +83,7 @@ In this project the analysis were made on the salary, pay gap of men and women. 
 I would like to analyze it more on the basis of these factors as well.  
 
 # Link to Tableau
-
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/RedesignProject_1/BestJobsforWomen?publish=yes
 
 # References
 1. http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
