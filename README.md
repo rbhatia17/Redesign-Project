@@ -72,6 +72,8 @@ This reading explains the fact that why still there exists a pay gap between men
 
 <img width="1259" alt="final" src="https://user-images.githubusercontent.com/32226800/32396005-d1035fe0-c0a0-11e7-8439-e3133005e6d4.png">
 
+This is the final visualization i redesigned and by this you can easily choose the category you like and then the occupations that come under you can see on the right side and for the job category you choose you get the salary pay gap between men and women and then on the right see the ratio that is women salary/men salary for that category. 
+
 # Future Enhancements 
 
 The analysis was made on the salary, pay gap of men and women. But the analysis for a good job for women can not only depend on this but a lot other factors like travel time, duration of work and many more. I would like to analyze it more on the basis of other factors as well.  
