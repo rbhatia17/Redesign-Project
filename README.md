@@ -70,9 +70,16 @@ This reading explains the fact that why still there exists a pay gap between men
 
 # Final Visualization
 
+<img width="1259" alt="final" src="https://user-images.githubusercontent.com/32226800/32396005-d1035fe0-c0a0-11e7-8439-e3133005e6d4.png">
+
 # Future Enhancements 
 
 The analysis was made on the salary, pay gap of men and women. But the analysis for a good job for women can not only depend on this but a lot other factors like travel time, duration of work and many more. I would like to analyze it more on the basis of other factors as well.  
 
+# Link to Tableau
+
 
 # References
+http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
+http://www.pewresearch.org/fact-tank/2017/04/03/gender-pay-gap-facts/
+https://www.google.com/search?biw=1280&bih=703&tbm=isch&sa=1&q=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&oq=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&gs_l=psy-ab.3...53637.104077.0.104436.31.29.2.0.0.0.118.2540.25j4.29.0....0...1.1.64.psy-ab..0.0.0....0.9UnpeiOhCKQ#imgrc=DTBoEevQy6VEVM:
