@@ -63,3 +63,4 @@ Visualization of Ratios for each category:
 Above all the visualizations are the ratios of the salary and from this i can make my analysis the values for the occupations that are close to 1.0 are good jobs for women. 
 
 # Warrant 
+The warrant basically is the background of knowledge you have while making the analysis. As there is hardly one or two jobs that actually have the equal pay but the jobs that are close to ratio 1 are also good jobs for them. As i found a paper reading online " http://www.pewresearch.org/fact-tank/2017/04/03/gender-pay-gap-facts/ " 
