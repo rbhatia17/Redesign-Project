@@ -80,6 +80,6 @@ The analysis was made on the salary, pay gap of men and women. But the analysis 
 
 
 # References
-http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
-http://www.pewresearch.org/fact-tank/2017/04/03/gender-pay-gap-facts/
-https://www.google.com/search?biw=1280&bih=703&tbm=isch&sa=1&q=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&oq=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&gs_l=psy-ab.3...53637.104077.0.104436.31.29.2.0.0.0.118.2540.25j4.29.0....0...1.1.64.psy-ab..0.0.0....0.9UnpeiOhCKQ#imgrc=DTBoEevQy6VEVM:
+1. http://www.informationisbeautiful.net/visualizations/gender-pay-gap/
+2. http://www.pewresearch.org/fact-tank/2017/04/03/gender-pay-gap-facts/
+3. https://www.google.com/search?biw=1280&bih=703&tbm=isch&sa=1&q=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&oq=worst+visualization+for+gender+pay+gap+for+specific+job+positions+in+US&gs_l=psy-ab.3...53637.104077.0.104436.31.29.2.0.0.0.118.2540.25j4.29.0....0...1.1.64.psy-ab..0.0.0....0.9UnpeiOhCKQ#imgrc=DTBoEevQy6VEVM:
