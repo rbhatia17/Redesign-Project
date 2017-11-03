@@ -24,4 +24,6 @@ So to start with the first thing after Data Wrangling was to upload the data in 
 
 This was my intermediate version where i created a list for the job category from that you choose which category you want you get a list of all the occupations under those category on the right side. For each job category and each occupation you get a salary of men and women under that. But this didnt support my claim of which is the best salary for women , more pay is always not the best job you want to do. For example you earn a lot as an actor but everyone doesnt want to be an actor. So i editied my visualization which says the best job for women would be where they get equal pay or close to men's salary. 
 
-The 
+So after this i calculated the ratio(women salary/men salary) and made a visualization of it. 
+
+
