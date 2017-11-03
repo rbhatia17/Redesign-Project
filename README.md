@@ -13,3 +13,6 @@ This is a pretty good visualization where we can see colorful circles a solid bl
 
 # Steps taken to Redesign the Visualization
 
+The first step i followed was to have a Claim that i wanted for my visualization. 
+# Claim: Whats the best job for women in United States
+
