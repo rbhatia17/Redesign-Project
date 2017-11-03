@@ -38,7 +38,7 @@ Care & Education:
 
 Creative & Media:
 
-<img width="521" alt="ratio creative" src="https://user-images.githubusercontent.com/32226800/32392955-e7dca2b4-c094-11e7-88e7-e8299d4dc38a.png">
+<img width="505" alt="ratio creative" src="https://user-images.githubusercontent.com/32226800/32393295-2ac08e1e-c096-11e7-86cd-dd43f9b47dc5.png">
 
 Law & Justice:
 
