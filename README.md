@@ -76,7 +76,11 @@ This is the final visualization i redesigned and by this you can easily choose t
 
 # Future Enhancements 
 
-The analysis was made on the salary, pay gap of men and women. But the analysis for a good job for women can not only depend on this but a lot other factors like travel time, duration of work and many more. I would like to analyze it more on the basis of other factors as well.  
+In this project the analysis were made on the salary, pay gap of men and women. But the analysis for a good job for women can not only depend on this but a lot other factors like:
+1. Travel time
+2. Duration of work
+3. Other benifits
+I would like to analyze it more on the basis of these factors as well.  
 
 # Link to Tableau
 
