@@ -26,4 +26,4 @@ This was my intermediate version where i created a list for the job category fro
 
 So after this i calculated the ratio(women salary/men salary) and made a visualization of it. 
 
-<img width="818" alt="ratio admin" src="https://user-images.githubusercontent.com/32226800/32392291-40845392-c092-11e7-954f-68eb7bc55e51.png">
+<img width="522" alt="screen shot 2017-11-03 at 12 32 21 pm" src="https://user-images.githubusercontent.com/32226800/32392478-269225a8-c093-11e7-87da-5a97280b25a1.png">
