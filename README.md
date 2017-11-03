@@ -21,3 +21,5 @@ The best job for a women according to my analysis would be where they get equal 
 So to start with the first thing after Data Wrangling was to upload the data in tableau, and then i created a visualization that had the salary for men and women for each occupation under each category. 
 
 <img width="1265" alt="prototype 1" src="https://user-images.githubusercontent.com/32226800/32390276-08052c5a-c08b-11e7-81a7-5d931d9a25a1.png">
+
+This was my intermediate version where i created a list for the job category from that you choose which category yo want you get a list of all the occupations under those category on the right side. For each job category and each occupation you get a salary of men and women under that. 
