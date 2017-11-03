@@ -22,4 +22,4 @@ So to start with the first thing after Data Wrangling was to upload the data in 
 
 <img width="1265" alt="prototype 1" src="https://user-images.githubusercontent.com/32226800/32390276-08052c5a-c08b-11e7-81a7-5d931d9a25a1.png">
 
-This was my intermediate version where i created a list for the job category from that you choose which category yo want you get a list of all the occupations under those category on the right side. For each job category and each occupation you get a salary of men and women under that. 
+This was my intermediate version where i created a list for the job category from that you choose which category yo want you get a list of all the occupations under those category on the right side. For each job category and each occupation you get a salary of men and women under that. But this didnt support my claim of which is the best salary for women , more pay is always not the best job you want to do. For example you earn a lot as an actor but not everyone wants to be an actor.  
