@@ -59,3 +59,7 @@ Visualization of Ratios for each category:
 # Senior Mangers & Executives:
 
 <img width="511" alt="ratio senior manager" src="https://user-images.githubusercontent.com/32226800/32392999-1cb73ada-c095-11e7-9a96-9a734574521c.png">
+
+Above all the visualizations are the ratios of the salary and from this i can make my analysis the values for the occupations that are close to 1.0 are good jobs for women. 
+
+# Warrant 
