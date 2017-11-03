@@ -16,3 +16,6 @@ This is a pretty good visualization where we can see colorful circles a solid bl
 The first step i followed was to have a Claim that i wanted for my visualization. 
 # Claim: Whats the best job for women in United States
 
+The best job for a women according to my analysis would be where they get equal pay or close to the men's pay. That could also be seen in the visualization above that i am redesigning but it was very unclear which occupation gets an equal pay. 
+
+So to start with the first thing after Data Wrangling was to upload the data in tableau, and then i created a visualization that had the salary for men and women for each occupation under each category. 
