@@ -32,7 +32,7 @@ Visualization of Ratios for each category:
 
 # Admin & Organization:
 
-<img width="818" alt="ratio admin" src="https://user-images.githubusercontent.com/32226800/32392291-40845392-c092-11e7-954f-68eb7bc55e51.png">
+<img width="557" alt="screen shot 2017-11-03 at 2 26 47 pm" src="https://user-images.githubusercontent.com/32226800/32396620-31d7c87c-c0a3-11e7-8023-782df1158ed4.png">
 
 # Care & Education: 
 
