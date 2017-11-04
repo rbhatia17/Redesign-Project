@@ -70,7 +70,7 @@ This reading explains the fact that why still there exists a pay gap between men
 
 # Final Visualization
 
-<img width="1259" alt="final" src="https://user-images.githubusercontent.com/32226800/32396005-d1035fe0-c0a0-11e7-8439-e3133005e6d4.png">
+<img width="1261" alt="screen shot 2017-11-03 at 7 10 05 pm" src="https://user-images.githubusercontent.com/32226800/32401394-aacff20a-c0ca-11e7-9e73-76663bd191b7.png">
 
 This is the final visualization i redesigned and by this you can easily choose the category you like and then the occupations that come under you can see on the right side and for the job category you choose you get the salary pay gap between men and women and then on the right see the ratio that is women salary/men salary for that category. 
 
